@@ -15,7 +15,8 @@ public class Switchconditions {
                 System.out.println("Sunday");
 
 
-
+            case 4 :
+                System.out.println("tue");
         }
 
     }
