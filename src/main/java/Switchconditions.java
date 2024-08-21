@@ -13,10 +13,12 @@ public class Switchconditions {
                 break;
             case 3 :
                 System.out.println("Sunday");
-
+                break;
 
             case 4 :
                 System.out.println("tue");
+                break;
+                
         }
 
     }
