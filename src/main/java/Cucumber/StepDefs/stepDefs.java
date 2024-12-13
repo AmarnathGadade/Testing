@@ -1,7 +1,8 @@
-package stepdefintions;
+package Cucumber.StepDefs;
+import io.cucumber.java.en.*;
 
-public class methodsteps {
-    @Given("Given the user opens the app")
+public class stepDefs {
+    @Given("given the user opens the app")
     public void given_the_user_opens_the_app() {
         // Write code here that turns the phrase above into concrete actions
         throw new io.cucumber.java.PendingException();
